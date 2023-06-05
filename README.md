@@ -43,13 +43,13 @@ Programa que mostra a area do triangulo utilizando o tamanho dos lados para o us
 ✔️ Interatividade com o usuario;
 
 ## Distribuição
-(https://github.com/Fernanda5510/Execicio_Jogo_Advinha/edit/main/Jogo_Adivinha.cpp)
+(https://github.com/Fernanda5510/triangulo_Funcoes-Csharp-/blob/master/Program.cs)
 
 ## Pré-requisitos ⚠️    
 acesso a compilador de c#.
 
 ## Como rodar a aplicação 
-Apenas aplique o codigo em um compilador de c++ :)
+Apenas aplique o codigo em um compilador de c# :)
 
 ## Testes realizados
 [Programa_funcionando](https://github.com/Fernanda5510/Execicio_Jogo_Advinha/assets/130413112/ea094be3-af57-4faf-ac46-737bf6265c3f)
