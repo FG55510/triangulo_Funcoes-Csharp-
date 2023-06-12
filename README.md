@@ -52,13 +52,14 @@ acesso a compilador de c#.
 Apenas aplique o codigo em um compilador de c# :)
 
 ## Testes realizados
-[Programa_funcionando](https://github.com/Fernanda5510/Execicio_Jogo_Advinha/assets/130413112/ea094be3-af57-4faf-ac46-737bf6265c3f)
+![Programa_funcionando](https://github.com/Fernanda5510/triangulo_Funcoes-Csharp-/assets/130413112/ba789772-d731-4528-b72a-f436f5317adf)
+
 
 ## Banco de Dados 🗂️
 Não há no momemento.
 
 ## Linguagens, dependencias e libs utilizadas 📚
-![C#] (https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ...
 Visual Studio;[Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
